@@ -1,2 +1,2 @@
 # Pi-Hole-Blocklist
-This is to experiment with Pi Hole.
+This is a experiment for Pi Hole.
