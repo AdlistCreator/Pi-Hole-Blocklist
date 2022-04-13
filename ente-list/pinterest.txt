@@ -1,0 +1,62 @@
+# Copyright (c) 2021-2022 Willi Entenmann - https://ente.dev/
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+about.pinterest.com
+accounts.pinterest.com
+ads.pinterest.com
+api.pinterest.com
+api.pinterest.com.gslb.pinterest.com
+assets.pinterest.com
+blog.pinterest.com
+br.pinterest.com
+business.pinterest.com
+ct.pinterest.com
+developers.pinterest.com
+dualstack.pinterest.map.fastly.net
+engineering.pinterest.com
+fr.pinterest.com
+help.pinterest.com
+id.pinterest.com
+i-h1.pinimg.com
+i.pinimg.com
+i.pinimg.com.edgekey.net
+i.pinimg.com.gslb.pinterest.com
+log.pinterest.com
+pinimg.com
+pin.it
+pinterest.com
+post.pinterest.com
+prod.pinterest.global.map.fastly.net
+s-passets.pinimg.com
+s.pinimg.com
+s.pinimg.com.edgekey.net
+s-pinimg-com.gslb.pinterest.com
+s.pinimg.com.gslb.pinterest.com
+trk.pinterest.com
+uk.pinterest.com
+v.pinimg.com
+v.pinimg.com.edgekey.net
+v.pinimg.com.gslb.pinterest.com
+widgets.pinterest.com
+www.pinterest.ch
+www.pinterest.com
+www.pinterest.com.au
+www.pinterest.com.edgekey.net
+www.pinterest.com.gslb.pinterest.com
+www.pinterest.fr
